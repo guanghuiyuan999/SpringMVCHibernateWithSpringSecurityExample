@@ -1,7 +1,7 @@
 .idea
 bin
 dependency-reduced-pom.xml
-atarget
+.target
 *.DS_Store
 *.iml
 *.ipr

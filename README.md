@@ -1,5 +1,8 @@
-# SpringMVCHibernateWithSpringSecurityExample
-
+# SpringMVCHibernateWithSpringSecurityExampl
+源码解析及地址：http://websystique.com/springmvc/spring-mvc-4-and-spring-security-4-integration-example/
+初始导入sql：init.sql
+用户名：sam
+密码：abc125
 
 Search for: 
 SKIP TO CONTENT
